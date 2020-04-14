@@ -42,7 +42,7 @@
 	prompt = false
 [github]
     user = shu
-    token = bdebf45487af4d16d7ce0dafdcf6e59336c10ff3
+    token = 
 [gitflow "prefix"]
 	feature = feature-
 	release = release-
