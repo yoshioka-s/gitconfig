@@ -124,6 +124,7 @@
 	psom = push origin master
 	psfom = push -f origin master
 	psuom = push -u origin master
+        psoh = push origin HEAD
 	#############
 	pl = pull
 	plu = pull -u
